@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Oleo+Script:wght@700&family=Patrick+Hand&family=Permanent+Marker&display=swap');
+
+
+* {
+    background-color: #000;
+    color: #fff;
+}
+
+h1 {
+    color: rgb(225, 0, 0);
+    background-color: #000;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'patrick hand';
+    font-style: italic;
+    border: 5px solid red;
+}
+
+.h2-titulo {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Permanent Marker';
+    text-transform: uppercase;
+
+}
+
+.parrafo {
+    font-size: 30px;
+    font-family: 'Oleo script';
+    background-image: url(./assets/img/X2QCL3CPLRAV7HAVDARGNZ4S6Y.jpg);
+    -webkit-text-stroke: 0.5px red;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    word-spacing: 3px;
+
+}
+
+.div-footer {
+    font-size: 2rem;
+    font-family: 'alfa slab one';
+}
+
+li {
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    list-style: none;
+}
